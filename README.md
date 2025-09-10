@@ -1,0 +1,3 @@
+# NewtonSchoolTask
+
+Due to 
